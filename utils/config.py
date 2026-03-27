@@ -4,7 +4,7 @@ import os
 TOKEN =os .environ .get ("TOKEN")
 NAME ="Yuna-bot"
 server ="https://discord.gg/Zg2XkS5hq9"
-ch ="https://discord.com/channels/1324668335069331477/1324668336470102143"
+ch ="https://discord.com/channels/1385273333720940778/1418831892886847599"
 OWNER_IDS = [int(x.strip()) for x in os.environ.get("OWNER_IDS", "").split(",") if x.strip()]
 BotName ="Yuna-bot"
 serverLink ="https://discord.gg/Zg2XkS5hq9"
